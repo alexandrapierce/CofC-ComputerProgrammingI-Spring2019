@@ -1,9 +1,8 @@
-#Name: Alex Pierce CSCI220-03
+#Name: Alex Pierce 
 #valentinegreeting.py
 #Purpose:Valentines greeting card
 #Inputs:clicks from user 
 #Outputs:valentines greeting card to monitor
-#Certification: I certify that this lab is entirely my own work with help from math lab
 
 from graphics import *
 from time import sleep
