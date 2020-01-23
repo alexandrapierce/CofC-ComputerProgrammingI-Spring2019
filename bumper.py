@@ -1,4 +1,4 @@
-#Name:Alex Pierce CSCI220-03
+#Name:Alex Pierce 
 #bumper.py
 
 #Purpose:Create program that creates two circles of different color
@@ -8,8 +8,6 @@
 
 #Outputs:Two circles of different colors bouncing around window changing
 #color and direction after collision with one another or wall.
-
-#Certification: I certify that this lab is entirely my own work with help from CS lab
 
 
 from graphics import *
